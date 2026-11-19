@@ -1,3 +1,5 @@
+vless://6962c372-27da-56d6-9d1f-8041abb7538e@fr.abbaas.net:443?security=reality&encryption=none&pbk=wBh3jtk45kBonp2-uVqsx71F4ziNH7vZcU6DAC6t2xs&headerType=none&type=tcp&sni=w-x.co&sid=1296174a86a6ac8c#%40FarazV2r
+vless://6962c372-27da-56d6-9d1f-8041abb7538e@fr.abbaas.net:443?security=reality&encryption=none&pbk=wBh3jtk45kBonp2-uVqsx71F4ziNH7vZcU6DAC6t2xs&headerType=none&type=tcp&sni=w-x.co&sid=1296174a86a6ac8c#%40FarazV2ray%20
 vless://836c4d68-e086-11f1-aabc-67841df8a6f9@185.65.202.122:10004?path=%2Fvpnjantit&security=&encryption=none&type=ws#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40Raydikalx%20%7C%2020B009
 vless://352a250d-080b-47b5-b7db-f9f8fa31c551@130.78.30.147:443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=105ky37.virtual-network.lol#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40Raydikalx%20%7C%20D34766
 vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@144.31.140.125:8443?security=reality&encryption=none&pbk=wgyw3OxZw4HEzedNdY_eHdcVkrtT7GEeZSHfzcZ8iDo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=twitch.tv&sid=168c15efac9df5fd#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40Raydikalx%20%7C%2011D170
