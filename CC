@@ -41,3 +41,4 @@ vless://71b566cb-78c4-48e4-af5b-720e4f7884f2@leviko-de6003.shopingggg.ir:443?sec
 vless://a346c521-7a7f-452b-9356-a4893feb5982@leviko-de8370.shopingggg.ir:443?security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&headerType=&type=tcp&flow=xtls-rprx-vision&sni=de10-r.bankai.party#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%40Leviko_v2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@leviko-it4746.shopingggg.ir:8080#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%40Leviko_v2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWQnp5czFjYWhmR1ZsT3dS@leviko-ie6840.shopingggg.ir:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%40Leviko_v2ray
+.
