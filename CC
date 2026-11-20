@@ -35,7 +35,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.179:443#%F0%9F%87%AC%F0%9F%87
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%40Leviko_v2ray
 vless://a346c521-7a7f-452b-9356-a4893feb5982@178.130.46.188:443?security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl16-r.bankai.party#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%40Leviko_v2ray
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@79.127.184.104:19999#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%40Leviko_v2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MTlweTBhOGlwZ2xxa2Jl@51.77.144.182:8080#%F0%9F%87%AB%F0%9F%87%B7%20France%20%40Leviko_v2ray
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%40Leviko_v2ray
 trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%40Leviko_v2ray
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.44:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.indyourperfectremotetechjobfromthecomfortofhome.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%40Leviko_v2ray
